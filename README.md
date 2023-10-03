@@ -4,6 +4,10 @@
 <h3 align="center">Welcome to my Republic. Wave your wand and check out my profile.</h3>
 <br>
 
+## Badges
+
+[![An image of @sauravionic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sauravionic)](https://holopin.io/@sauravionic
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
